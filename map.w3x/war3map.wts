@@ -1,0 +1,163 @@
+﻿STRING 1
+{
+Blood Arena v6.42
+}
+
+STRING 2
+{
+6+
+}
+
+STRING 4
+{
+N1ghtSiren
+}
+
+STRING 6
+{
+Blood Arena v6.42
+}
+
+STRING 7
+{
+N1ghtSiren presents
+}
+
+STRING 8
+{
+Player 1
+}
+
+STRING 9
+{
+Player 2
+}
+
+STRING 10
+{
+Player 3
+}
+
+STRING 11
+{
+Player 4
+}
+
+STRING 12
+{
+Player 5
+}
+
+STRING 13
+{
+Player 6
+}
+
+STRING 14
+{
+Player 7
+}
+
+STRING 15
+{
+Player 8
+}
+
+STRING 16
+{
+Player 9
+}
+
+STRING 17
+{
+Player 10
+}
+
+STRING 18
+{
+Player 11
+}
+
+STRING 19
+{
+Player 12
+}
+
+STRING 21
+{
+smash...
+SMAASH!!!
+
+Release: 26.01.20
+discord.gg/gGdPndE
+}
+
+STRING 22
+{
+Use hotkeys to cast spells.
+Hover mouse over spell to get description.
+TAB to get scoreboard.
+
+p.s.Menu still on f10
+p.p.s Hero is f1
+p.p.p.s Discord server: discord.gg/gGdPndE
+}
+
+STRING 23
+{
+Game Mode Picker
+}
+
+STRING 24
+{
+FFA Only
+}
+
+STRING 25
+// Destructibles: B000 (Throne1), Name (Name)
+{
+Throne1
+}
+
+STRING 27
+// Destructibles: B001 (Throne2), Name (Name)
+{
+Throne2
+}
+
+STRING 28
+// Destructibles: B002 (Tower1), Name (Name)
+{
+Tower1
+}
+
+STRING 29
+// Destructibles: B003 (Tower2), Name (Name)
+{
+Tower2
+}
+
+STRING 31
+// Destructibles: B004 (Roots), Name (Name)
+{
+Roots
+}
+
+STRING 32
+// Destructibles: B005 (faerie fire), Name (Name)
+{
+faerie fire
+}
+
+STRING 33
+// Destructibles: B006 (phase shift), Name (Name)
+{
+phase shift
+}
+
+STRING 37
+// Destructibles: B007 (tornadoe), Name (Name)
+{
+tornadoe
+}
+
