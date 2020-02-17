@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "Lua.workspace.preloadFileSize": 900,
+        "Lua.diagnostics.globals": ["iconfolder","end","do","nil","then"],
+        "Lua.workspace.library": {
+            "api"
+        }
+    }
+}

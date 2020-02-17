@@ -1,0 +1,6 @@
+{
+  "mapdir": "map.w3x",
+  "lua.package.path": [
+    "."
+  ]
+}
